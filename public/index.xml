@@ -1,7 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Adylan Roaffa</title><link>https://adylanroaffa.com/</link><description>Recent content on Adylan Roaffa</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 26 Sep 2021 14:13:00 +0000</lastBuildDate><atom:link href="https://adylanroaffa.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://adylanroaffa.com/about/</link><pubDate>Sun, 26 Sep 2021 14:13:00 +0000</pubDate><guid>https://adylanroaffa.com/about/</guid><description>Adylan Roaffa
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adylan Roaffa</title>
+    <link>https://adylanroaffa.com/</link>
+    <description>Recent content on Adylan Roaffa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Sep 2021 14:13:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adylanroaffa.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://adylanroaffa.com/about/</link>
+      <pubDate>Sun, 26 Sep 2021 14:13:00 +0000</pubDate>
+      
+      <guid>https://adylanroaffa.com/about/</guid>
+      <description>Adylan Roaffa
 Loves to eat and play games (Souls-like is my favorite).
 Currently working as a Software Engineer in Singapore.
 Self-proclaimed stoic.
 Working on my range.
-Currently reading Economics in One Lesson</description></item><item><title>Yet Another Blog</title><link>https://adylanroaffa.com/posts/yet-another-blog/</link><pubDate>Sun, 26 Sep 2021 14:10:17 +0000</pubDate><guid>https://adylanroaffa.com/posts/yet-another-blog/</guid><description>Just like every other developers in the planet, we tend to create a brand new blog every single year.
-I try to keep it simple though this time. The goal of this blog is not to promote myself as someone that can build a website, but to learn how to write properly. I do not want it to be a &amp;ldquo;goal&amp;rdquo; like a year ago when I tried to create &amp;ldquo;30 Days of Writing&amp;rdquo; challenge and failed miserably in the middle of the challenge.</description></item></channel></rss>
+Currently reading Economics in One Lesson</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Blog</title>
+      <link>https://adylanroaffa.com/posts/yet-another-blog/</link>
+      <pubDate>Sun, 26 Sep 2021 14:10:17 +0000</pubDate>
+      
+      <guid>https://adylanroaffa.com/posts/yet-another-blog/</guid>
+      <description>Just like every other developers in the planet, we tend to create a brand new blog every single year.
+I try to keep it simple though this time. The goal of this blog is not to promote myself as someone that can build a website, but to learn how to write properly. I do not want it to be a &amp;ldquo;goal&amp;rdquo; like a year ago when I tried to create &amp;ldquo;30 Days of Writing&amp;rdquo; challenge and failed miserably in the middle of the challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
