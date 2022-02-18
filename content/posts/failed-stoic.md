@@ -64,7 +64,7 @@ I am not actually writing a journal with paper and pen. I just do it inside my h
 
 Being grateful is super underrated. I highly recommend doing this routine every day.
 
-### Writing this very post
+#### Writing this very post
 
 If you have read until this part: congratulations! You have seen how I dissect my feelings and pour them into short but condensed paragraphs. I am feeling WAY BETTER than ever before. Now I can understand what I really feel. Now I know what things are missing. Now I know what to do. 
 
