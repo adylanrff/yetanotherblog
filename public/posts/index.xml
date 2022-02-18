@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adylan Roaffa</title>
-    <link>https://adylanroaffa.com/posts/</link>
+    <link>https://adylanroaffa.netlify.app/posts/</link>
     <description>Recent content in Posts on Adylan Roaffa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Sep 2021 14:10:17 +0000</lastBuildDate>
-    
-	<atom:link href="https://adylanroaffa.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Sep 2021 14:10:17 +0000</lastBuildDate><atom:link href="https://adylanroaffa.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yet Another Blog</title>
-      <link>https://adylanroaffa.com/posts/yet-another-blog/</link>
+      <link>https://adylanroaffa.netlify.app/posts/yet-another-blog/</link>
       <pubDate>Sun, 26 Sep 2021 14:10:17 +0000</pubDate>
       
-      <guid>https://adylanroaffa.com/posts/yet-another-blog/</guid>
+      <guid>https://adylanroaffa.netlify.app/posts/yet-another-blog/</guid>
       <description>Just like every other developers in the planet, we tend to create a brand new blog every single year.
 I try to keep it simple though this time. The goal of this blog is not to promote myself as someone that can build a website, but to learn how to write properly. I do not want it to be a &amp;ldquo;goal&amp;rdquo; like a year ago when I tried to create &amp;ldquo;30 Days of Writing&amp;rdquo; challenge and failed miserably in the middle of the challenge.</description>
     </item>
