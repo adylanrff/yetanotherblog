@@ -6,12 +6,8 @@ draft: false
 
 **Adylan Roaffa**
 
-Loves to eat and play games (Souls-like is my favorite).
-
-Currently working as a Software Engineer in Singapore. 
-
-Self-proclaimed stoic.
-
-Working on my *range*. 
-
-Currently reading **Economics in One Lesson**
+- Loves weird movies. [Visit My Letterboxd](https://letterboxd.com/adylanroaffa/)
+- Pretty good at FIFA. I hate the game, though. 
+- Gaming enthusiast. Compulsively buys a new video game every month. Rarely plays them.
+- Currently working as a Software Engineer in Singapore. 
+- Passionate about distributed systems and system programming.

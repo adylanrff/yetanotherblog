@@ -1,6 +1,7 @@
 ---
 title: "A Failed Stoic"
 date: 2022-02-18T10:47:54Z
+author: "Adylan"
 draft: false
 ---
 
