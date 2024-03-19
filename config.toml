@@ -1,4 +1,4 @@
-baseurl = "https://adylanroaffa.netlify.app/"
+baseurl = "https://adylanroaffa.com/"
 title = "Adylan Roaffa"
 author = "Adylan Roaffa"
 canonifyurls = true
@@ -11,39 +11,46 @@ hasCJKLanguage = false
 pygmentsstyle = "vs"
 pygmentscodefences = true
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = [
+  "\\.Rmd$",
+  "\\.Rmarkdown$",
+  "_cache$",
+  "\\.knit\\.md$",
+  "\\.utf8\\.md$",
+]
 
 [params]
-  sitename = "Adylan Roaffa"
-  faviconfile = "images/favicon.png"
-  highlightjs = true
-  highlightjslanguages = ["r", "python", "stan"]
-  uselatex = true
-  progressively = false
+sitename = "Adylan Roaffa"
+faviconfile = "images/favicon.png"
+highlightjs = true
+highlightjslanguages = ["r", "python", "stan"]
+uselatex = true
+progressively = false
 # commentsrepo = "user/repo"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.primary]]
-    name = "Home"
-    url = "/"
-    weight = 1
+name = "Home"
+url = "/"
+weight = 1
 [[menu.primary]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+name = "About"
+url = "/about/"
+weight = 2
 [[menu.primary]]
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 3
+name = "Portfolio"
+url = "/portfolio/"
+weight = 3
 [[menu.primary]]
-    name = "GitHub"
-    url = "https://github.com/adylanrff"
-    weight = 4
+name = "GitHub"
+url = "https://github.com/adylanrff"
+weight = 4
 [[menu.primary]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/adylan-roaffa/"
-    weight = 5
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/adylan-roaffa/"
+weight = 5
+

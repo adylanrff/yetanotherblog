@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adylan Roaffa</title>
-    <link>//contabo-1:1313/</link>
-    <description>Recent content on Adylan Roaffa</description>
+    <title>Blogs on Adylan Roaffa</title>
+    <link>//contabo-1:1313/blog/</link>
+    <description>Recent content in Blogs on Adylan Roaffa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Mar 2024 21:09:49 +0800</lastBuildDate>
-    <atom:link href="//contabo-1:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//contabo-1:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning to Write</title>
       <link>//contabo-1:1313/blog/learning-to-write/</link>
@@ -21,13 +21,6 @@
       <pubDate>Fri, 18 Feb 2022 10:47:54 +0000</pubDate>
       <guid>//contabo-1:1313/blog/failed-stoic/</guid>
       <description>Introduction This is me trying to be vulnerable. This post may offend or is too dramatic for some readers. So skip it if you don&amp;rsquo;t want to.&#xA;I am writing this post as a remembrance that I have failed to be a stoic. Sigh, I wrote this &amp;ldquo;stoic&amp;rdquo; thing everywhere in my bio. Turns out I don&amp;rsquo;t deserve one. At least for now.&#xA;The Incident Today, I have heard a lot of good news about my friends.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//contabo-1:1313/about/</link>
-      <pubDate>Sun, 26 Sep 2021 14:13:00 +0000</pubDate>
-      <guid>//contabo-1:1313/about/</guid>
-      <description>Adylan Roaffa&#xA;Loves weird movies. Visit My Letterboxd Pretty good at FIFA. I hate the game, though. Gaming enthusiast. Compulsively buys a new video game every month. Rarely plays them. Currently working as a Software Engineer in Singapore. Passionate about distributed systems and system programming. </description>
     </item>
     <item>
       <title>Yet Another Blog</title>
