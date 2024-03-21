@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Adylan Roaffa</title>
-    <link>https://adylanroaffa.com/blog/</link>
+    <link>//contabo-1:1313/blog/</link>
     <description>Recent content in Blogs on Adylan Roaffa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 21:09:49 +0800</lastBuildDate>
-    <atom:link href="https://adylanroaffa.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 22:11:07 +0800</lastBuildDate>
+    <atom:link href="//contabo-1:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March Madness March 21 Leadership</title>
+      <link>//contabo-1:1313/blog/march-madness-march-21-leadership/</link>
+      <pubDate>Thu, 21 Mar 2024 22:11:07 +0800</pubDate>
+      <guid>//contabo-1:1313/blog/march-madness-march-21-leadership/</guid>
+      <description>Test</description>
+    </item>
     <item>
       <title>Learning to Write</title>
-      <link>https://adylanroaffa.com/blog/learning-to-write/</link>
+      <link>//contabo-1:1313/blog/learning-to-write/</link>
       <pubDate>Tue, 19 Mar 2024 21:09:49 +0800</pubDate>
-      <guid>https://adylanroaffa.com/blog/learning-to-write/</guid>
+      <guid>//contabo-1:1313/blog/learning-to-write/</guid>
       <description>Writing is thinking. To write well is to think clearly. That&amp;rsquo;s why it&amp;rsquo;s so hard. - David McCullough&#xA;I can now understand what differentiates between a good expert versus a great expert: the quality of their writing. Good expert understands how the thing works; great expert understand how the thing works and how to communicate it clearly. Clarity here is the keyword. If you cannot explain a problem clearly, you may not fully understand the problem yet.</description>
     </item>
     <item>
       <title>A Failed Stoic</title>
-      <link>https://adylanroaffa.com/blog/failed-stoic/</link>
+      <link>//contabo-1:1313/blog/failed-stoic/</link>
       <pubDate>Fri, 18 Feb 2022 10:47:54 +0000</pubDate>
-      <guid>https://adylanroaffa.com/blog/failed-stoic/</guid>
+      <guid>//contabo-1:1313/blog/failed-stoic/</guid>
       <description>Introduction This is me trying to be vulnerable. This post may offend or is too dramatic for some readers. So skip it if you don&amp;rsquo;t want to.&#xA;I am writing this post as a remembrance that I have failed to be a stoic. Sigh, I wrote this &amp;ldquo;stoic&amp;rdquo; thing everywhere in my bio. Turns out I don&amp;rsquo;t deserve one. At least for now.&#xA;The Incident Today, I have heard a lot of good news about my friends.</description>
     </item>
     <item>
       <title>Yet Another Blog</title>
-      <link>https://adylanroaffa.com/blog/yet-another-blog/</link>
+      <link>//contabo-1:1313/blog/yet-another-blog/</link>
       <pubDate>Sun, 26 Sep 2021 14:10:17 +0000</pubDate>
-      <guid>https://adylanroaffa.com/blog/yet-another-blog/</guid>
+      <guid>//contabo-1:1313/blog/yet-another-blog/</guid>
       <description>Just like every other developers in the planet, we tend to create a brand new blog every single year.&#xA;I try to keep it simple though this time. The goal of this blog is not to promote myself as someone that can build a website, but to learn how to write properly. I do not want it to be a &amp;ldquo;goal&amp;rdquo; like a year ago when I tried to create &amp;ldquo;30 Days of Writing&amp;rdquo; challenge and failed miserably in the middle of the challenge.</description>
     </item>
   </channel>
