@@ -5,7 +5,6 @@
     <link>https://adylanroaffa.com/tags/</link>
     <description>Recent content in Tags on Adylan Roaffa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://adylanroaffa.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://adylanroaffa.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
