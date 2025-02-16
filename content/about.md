@@ -7,7 +7,7 @@ draft: false
 **Adylan Roaffa**
 
 - Loves weird movies. [Visit My Letterboxd](https://letterboxd.com/adylanroaffa/)
-- Pretty good at FIFA. I hate the game, though. 
 - Gaming enthusiast. Compulsively buys a new video game every month. Rarely plays them.
-- Currently working as a Software Engineer in Singapore. 
-- Passionate about distributed systems and system programming.
+- Loves cooking! I do one week meal prep every Sunday. 
+- Currently working as a Software Engineer in Hamburg. 
+- Passionate about distributed systems, system programming, automation.
